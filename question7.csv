@@ -1,0 +1,12 @@
+n_qstn,QUESTIONS,Réponse 1,Réponse 2 ,Réponse 3 ,Good,Ambition,Intelligence,Courage
+1,As tu déjà volé un cône de signalisation?,Oui,Non,Tout les jours,"-1, 0, -2 ","0, 0, 0","0, 0, 0 ","0, 0, 0 "
+2,As tu peur du vide?,Oui,Non,J'en fais des cauchemars,"0, 0, 0 ","0, 0, 0 ","0, 0, 0 ","0, 0, 0 "
+3,Es tu désagréable avec les démarcheurs téléphoniques?,Oui,Non,Je souhaite leur extinction,"-1,0, -2","0, 0, 0 ","0, 0, 0 ","0, 0, 0 "
+4,As tu un futur ?,Oui,Non,On croise les doigts,"0, 0, 0 ","0, -1, -2","0, 0, 0 ","0, 0, 0 "
+5,As tu peur du noir ?,Un peu,Non,J'suis nyctophobe,"0, 0, 0 ","0, -1,-2","0, 0, 0 ","0, 0, 0 "
+6,La Terre est ronde ?,Oui,Non,mais que aux pôles,"0, 0, 0 ","0, 0, 0 ","-1, 0, -2","0, 0, 0 "
+7,Plus tard tu aimerais avoir un métier?,Oui,Non,Très bien payé,"0, 0, 0 ","0, -2, +1","0, 0, 0 ","0, 0, 0 "
+8,2(2+3)/2,5,7,0,"0, 0, 0 ","0, 0, 0 ","0, 0, -2","0, 0, 0 "
+9,La personne dont on ne prononce pas le nom attaque Poudlard que fais tu?,Je m'bats,Je fuis ,J'appelle les secours,"0, 0, 0 ","0, 0, 0 ","0, 0, 0 ","1, -2, -1 "
+10,Es-tu économe?,Vite fais,Ça m'importe peu,extrêmement,"0, 0, 0 ","1, 0, +2","0, 0, 0 ","0, 0, 0 "
+11,Un enfant tombe,Je rigole,Je passe mon chemin,Je l'aide,"-2, 0, +1","0, 0, 0 ","0, 0, 0 ","0, 0, 0 "
